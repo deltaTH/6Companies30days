@@ -1,0 +1,7 @@
+echo "# 6Companies30days" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/deltaTH/6Companies30days.git
+git push -u origin main
